@@ -124,11 +124,12 @@ print("Your final score is", score, "out of", max_score)
 print("\n-----------------------------------")
 
 #Result
-if score >= 50:
+if score >= 40:
     print("Outstanding! Well Played!")
 elif score >= 30:
     print("Nice Played!")
 else:
     print("\n-----------------------------------")
     print("\nYou Are Fail Better Luck Next Time....Keep Practicing")
+
     print("\n-----------------------------------")
